@@ -15,5 +15,5 @@ node server.js
 Now open: 
 
 ```
-`https://localhost:9001/`
+https://localhost:9001/
 ```
